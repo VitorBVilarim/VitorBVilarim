@@ -2,7 +2,7 @@
 - Com 18 anos, vivendo em Campina Grande/PB, Audacioso quando se trata sobre o mundo da programação, mestre dos bugs, e sim, quanto mais eu aprendo e me estresso, mais eu me apaixono por essa doideira!
 
 
-   ![teste](https://github.com/VitorBVilarim/VitorBVilarim/assets/142254005/4eaa2711-550a-484b-9ea0-0df840578ae2) 
+   ![teste](https://raw.githubusercontent.com/VitorBVilarim/VitorBVilarim/main/assets/img/arquivo.gif.gif) 
 
 
   # Tecnologias e Ferramentas:
