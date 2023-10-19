@@ -1,16 +1,44 @@
-# Vitor Vilarim
-- Com 18 anos, vivendo em Campina Grande/PB, Audacioso quando se trata sobre o mundo da programação, mestre dos bugs, e sim, quanto mais eu aprendo e me estresso, mais eu me apaixono por essa doideira!
+<br clear="both">
+
+<h2 align="center">Vitor VIlarim</h2>
+
+###
+
+<p align="left"> - Com 18 anos, vivendo em Campina Grande/PB, Audacioso quando se trata sobre o mundo da programação, mestre dos bugs, e sim, quanto mais eu aprendo e me estresso, mais eu me apaixono por essa doideira!</p>
+
+###
+
+![teste](https://raw.githubusercontent.com/VitorBVilarim/VitorBVilarim/main/assets/img/arquivo.gif.gif)
+
+###
+
+<div align="left">
+</div>
+
+###
+
+<h3 align="left">Tecnologias e Ferramentas:</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+</div>
+
+###
+
+<p align="left">📚 Tenho me dedicado ao estudo de algumas tecnologias, como Nodejs, TypeScript, SQL, PostgreSQL.</p>
+
+###
+
+<p align="left">☕ Estou cada vez mais animado quando se trata de buscar por conhecimento, por isso acabo recorrendo ao café para manter minha energia, e conseguir continuar a fazer aquisição de novos conhecimentos.</p>
 
 
-   ![teste](https://raw.githubusercontent.com/VitorBVilarim/VitorBVilarim/main/assets/img/arquivo.gif.gif) 
-
-
-  # Tecnologias e Ferramentas:
-   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="65" height="65" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="55" height="55" />  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg"  width="60" height="75"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" width="50" height="92"  /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="37" height="58" />
-
-  📚 tenho me dedicado ao estudo de algumas tecnologias, como Nodejs, TypeScript, SQL, PostgreSQL.
-
-  ☕ Estou cada vez mais animado quando se trata de buscar por conhecimento, por isso acabo recorrendo ao café para manter minha energia, e conseguir continuar a fazer aquisição de novos conhecimentos.
-
- 
-  
