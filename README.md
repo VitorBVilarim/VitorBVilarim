@@ -35,7 +35,7 @@
 
 ###
 
-<p align="left">📚 Tenho me dedicado ao estudo de algumas tecnologias, como Nodejs, TypeScript, SQL, PostgreSQL.</p>
+<p align="left">📚 Tenho me dedicado ao estudo de algumas tecnologias para deixar minhas aplicações mais robustas como Docker, Gerenciamento de Filas, TypeORM.</p>
 
 ###
 
