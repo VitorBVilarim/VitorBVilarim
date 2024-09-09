@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left"> - Com 18 anos, vivendo em Campina Grande/PB, Audacioso quando se trata sobre o mundo da programação, mestre dos bugs, e sim, quanto mais eu aprendo e me estresso, mais eu me apaixono por essa doideira!</p>
+<p align="left"> - Com 19 anos, vivendo em Campina Grande/PB, Audacioso quando se trata sobre o mundo da programação, mestre dos bugs, e sim, quanto mais eu aprendo e me estresso, mais eu me apaixono por essa doideira!</p>
 
 ###
 
